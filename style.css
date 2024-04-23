@@ -1,0 +1,49 @@
+/* Estilo para o cabeçalho */
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  /* Estilo para títulos */
+  h1 {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilo para imagens */
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilo para parágrafos */
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  /* Estilo para seções */
+  section {
+    margin-bottom: 20px;
+  }
+  
+  /* Estilo para links */
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  /* Estilo para o rodapé */
+  footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+  }
+  
+
+
+
+  
