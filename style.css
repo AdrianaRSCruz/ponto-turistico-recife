@@ -1,4 +1,44 @@
 div {
     background:  lightgreen;
     font-size: medium;
+    
 }
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: blue;
+}
+h1 {
+    color: red;
+    font-size: 30px;
+}
+.Madre img {
+   max-width: 100%;
+   height: auto;
+   border: 5px solid #ccc;
+   padding: 10px;
+    
+}
+.Pontos-turisticos img {
+    border: 5px solid #ccc; /* Borda de 5px sólida com cor cinza claro */
+    padding: 10px; /* Espaço de 10px entre a borda e a imagem */
+}
+.Pontos-turisticos p {
+    text-align: center; /* Centraliza o texto da legenda */
+    font-style: italic; /* Deixa o texto em itálico */
+    margin-top: 10px; /* Adiciona espaço acima da legenda */
+}
+
+.topo img {
+    max-width: 100%; /* Define a largura máxima como 100% da largura do container */
+    height: auto; /* Mantém a proporção da imagem */
+    border: 5px solid #ccc; /* Borda de 5px sólida com cor cinza claro */
+    padding: 10px; /* Espaço de 10px entre a borda e a imagem */
+}
+
+.topo {
+  text-align: center; /* Centraliza a imagem e o conteúdo horizontalmente */
+}
+
+
